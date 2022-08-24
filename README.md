@@ -69,4 +69,4 @@ log.info('Oh My God, this works!!!');
 
 ## Credits
 
-Package developed based on `[bunyan-mysql](https://www.npmjs.com/package/bunyan-mysql)` package.
+Package developed based on [bunyan-mysql](https://www.npmjs.com/package/bunyan-mysql) package.

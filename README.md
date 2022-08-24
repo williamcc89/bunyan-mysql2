@@ -67,6 +67,6 @@ log.info('Oh My God, this works!!!');
 * `connectionLimit`: The maximum number of connections to create at once.
   (Default: `10`)
 
-  ## Credits
+## Credits
 
-Package developed based on `bunyan-mysql` package.
+Package developed based on `[bunyan-mysql](https://www.npmjs.com/package/bunyan-mysql)` package.

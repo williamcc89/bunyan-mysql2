@@ -1,0 +1,39 @@
+{
+  "name": "bunyan-mysql2",
+  "version": "0.0.1",
+  "description": "A Bunyan stream for sending log data to MySQL driver version 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/williamcc89/bunyan-mysql2.git"
+  },
+  "keywords": [
+    "Bunyan",
+    "Mysql",
+    "Mysql2"
+  ],
+  "author": {
+    "name": "williamcc89"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamcc89/bunyan-mysql2/issues"
+  },
+  "homepage": "https://github.com/williamcc89/bunyan-mysql2",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "maintainers": [
+    {
+      "name": "eHattori",
+      "email": "eduardo.hattori@hotmail.com"
+    }
+  ]
+}

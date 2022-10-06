@@ -26,7 +26,8 @@ function MySqlStream(options){
     host            : options.host,
     user            : options.user,
     password        : options.password,
-    database        : options.database
+    database        : options.database,
+    port            : options.port
   });
   Writable.call(this, {});
 }
